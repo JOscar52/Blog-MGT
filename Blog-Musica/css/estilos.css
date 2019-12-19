@@ -1,0 +1,80 @@
+
+
+body{
+
+  background-color:rgb(128, 43, 0);
+
+}
+
+.uu{
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: auto;
+  margin: auto;
+}
+.nav{
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+.ll{float: left;}
+nav ul li{ float: left;}
+
+div ul li a{
+  text-decoration: none;
+
+}
+.d1{
+
+width: 100%;
+}
+.d2{
+
+width: 10%;
+}
+.color{
+
+  background-color: rgb(0, 51, 153);
+}
+.colorv{
+  
+  background-color: rgb(0, 77, 0);
+}
+.tm{
+  height: 558px
+}
+.im{
+  height: 35px;
+  margin-top:5em;
+}
+.im1{
+  height: 35px;
+  margin-top:5em;
+  background-color: white;
+}
+.nav, .con{
+  background-color: aliceblue;
+}
+.aat{
+  max-height: 180px;
+  overflow: auto;
+}
+.con{
+  text-align: justify;
+
+}
+.it{
+  background-color: teal;
+}
+.btn{
+  background-color: red;
+}
+.mi{
+  float: left;
+}
+.md{
+  float: right;
+}

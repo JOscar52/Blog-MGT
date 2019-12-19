@@ -1,0 +1,76 @@
+
+
+body{
+
+	  background: url(../img/9.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: contain;
+
+
+}
+.cd{
+	
+	background: url(../img/7.jpg);
+    background-repeat: repeat;
+    background-position: left top;
+		background-size: contain;
+		width: 100%;
+		height: 100%;
+}
+.ct{
+	color: white;
+}
+@font-face {
+	font-family: 'codif';
+	src: url('../fuentes/Lato-Light.ttf');
+}
+@font-face {
+	font-family: 'ftit';
+	src: url('../fuentes/Lato-BlackItalic.ttf');
+}
+.tito{
+  font-family: 'ftit';
+}
+.fecha{
+  font-family: 'codif';
+}
+body{
+  margin: 2%;
+  background-color: rgb(179, 240, 255);
+}
+.cl1{
+	background-color: rgb(179, 240, 255);
+}
+.logo-img{
+  width: 30%;
+}
+
+ }
+p{text-align: justify;}
+.c{
+  border: 1px solid red;
+}
+.at{overflow: auto;
+    height: 180px;
+  }
+.imag{
+  height: auto;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+.c2{
+	background-color: rgb(255, 128, 128);
+}
+.ciz{
+  background-color: rgb(214, 224, 245);
+  height: 1540px;
+}
+
+.cd{
+	background-color:rgb(173, 235, 173);
+  height: 1500px;
+}

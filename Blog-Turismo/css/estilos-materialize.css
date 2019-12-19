@@ -1,0 +1,27 @@
+
+body{
+  background-color: #e3f2fd;
+}
+.a100{
+  width: 100%;
+}
+
+.ib{
+  width: 100%;
+}
+.ci{
+  background:
+	url(../img/papel_doblado.jpg) left top repeat;
+
+}
+.ca1{
+  text-align: left bottom;
+  background: url(../img/i5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+}
+.it{
+  margin-top: 10%;
+}
